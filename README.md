@@ -2,7 +2,22 @@
 
 ---
 
-I focus on bridging the gap between DevOps and managed services. Most of my work revolves around automating workflows, building integrations for RMM platforms, and creating developer tooling that makes IT operations more efficient.
+I’ve spent the last **15 years building across the IT industry**, working in roles spanning **project management, operations, systems design, AI tooling, and software development**.
+
+My passion is **bridging the gap between DevOps and managed services**, combining deep operational experience with modern engineering practices.
+
+Most of my work focuses on:
+
+* **Workflow automation**
+* **Building integrations for RMM and SaaS platforms**
+* **Developer tooling for IT operations**
+* **AI-driven operational efficiency**
+* **Improving platform scalability and internal team productivity**
+
+Currently, I work at a **SaaS provider**, where I design and build **internal tools that improve operational efficiency across multiple teams**.
+
+I enjoy creating systems that reduce friction, eliminate repetitive work, and help technical teams move faster with confidence.
+
 
 ---
 
@@ -15,7 +30,6 @@ I focus on bridging the gap between DevOps and managed services. Most of my work
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ---
 
