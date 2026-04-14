@@ -1,4 +1,4 @@
-<img src="Assets/banner.svg" width="100%" alt="Zachery Frazier — Senior Solutions Engineer at N-able Technologies"/>
+<img src="Assets/banner.png" width="100%" alt="Zachery Frazier — Senior Solutions Engineer at N-able Technologies"/>
 
 ---
 
