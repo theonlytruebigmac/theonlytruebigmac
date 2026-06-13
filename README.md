@@ -62,7 +62,7 @@ I enjoy creating systems that reduce friction, eliminate repetitive work, and he
 
 - **[homelab-mcp](https://github.com/theonlytruebigmac/homelab-mcp)** — MCP server for homelab infrastructure management. Control and monitor your homelab through AI-powered tooling.
 
-- **[screencontrol](https://github.com/theonlytruebigmac/screencontrol)** — Rust-based open source remote control solution.
+- **[nable-skills](https://github.com/theonlytruebigmac/nable-skills)** — MSP skill library for Claude Code + Official N-able MCP (GraphQL preview endpoint.
 
 ---
 
