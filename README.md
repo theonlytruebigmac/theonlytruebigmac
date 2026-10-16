@@ -56,7 +56,7 @@ I enjoy creating systems that reduce friction, eliminate repetitive work, and he
 
 - **[NCRestAPI](https://github.com/theonlytruebigmac/NCRestAPI)** — PowerShell module for interacting with the N-able N-central REST API. Simplifies authentication, device queries, and management tasks across N-central environments.
 
-- **[N-central REST API MCP]([https://github.com/theonlytruebigmac/N-central_MCP](https://github.com/theonlytruebigmac/n-central-rest-api-mcp))** — AI-native Model Context Protocol server for N-able N-central's REST API. Enables LLM-driven RMM platform management, reporting, and automation.
+- **[N-central REST API MCP]([https://github.com/theonlytruebigmac/n-central-rest-api-mcp)** — AI-native Model Context Protocol server for N-able N-central's REST API. Enables LLM-driven RMM platform management, reporting, and automation.
 
 - **[NCRelay](https://github.com/theonlytruebigmac/NCRelay)** — Notification relay service that receives XML data via custom API endpoints and forwards alerts to Slack, Discord, Microsoft Teams, and webhooks.
 
